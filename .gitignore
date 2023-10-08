@@ -1,0 +1,13 @@
+# Gradle, Bloop, Metals
+.gradle/
+.gradletasknamecache
+.nb-gradle
+.bloop/
+.metals/
+
+# Build output
+/build/
+/out/
+/target/
+/bin/
+/classes/
